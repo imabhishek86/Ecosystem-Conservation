@@ -23,7 +23,7 @@ html{
 }
 section{
     padding: 4% 6%;
-    background-image: url('images/bg.avif');
+    background-image: url('bg.avif');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -120,7 +120,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('images/banner.jpg');
+    background-image: url('banner.jpg');
     background-size: cover;
 }
 .home .content{
@@ -203,7 +203,7 @@ header .fa-bars{
     font-size: 1.7rem;
 }
 .services{
-    background-image: url('images/footer.jpg');
+    background-image: url('footer.jpg');
     min-height: 100vh;
 }
 .services .heading{
@@ -317,7 +317,7 @@ header .fa-bars{
     position: fixed;
     left: 0;
     top: 0;
-    background-image: url('images/bg0.jpg');
+    background-image: url('bg0.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -510,7 +510,7 @@ header .fa-bars{
     margin-bottom: 2rem;
 }
 .footer{
-    background-image: url('images/footer.jpg');
+    background-image: url('footer.jpg');
 
 }
 .footer .box-container{
